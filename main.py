@@ -7,7 +7,7 @@ def calculator():
         try:
             expression = input("Enter your calculation: ")
             if expression.lower() == 'exit':
-                print("Goodbye!")
+                print("бувай")
                 break
 
             # Evaluate the mathematical expression
